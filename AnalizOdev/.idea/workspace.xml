@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cee22c8c-042d-4a80-a73d-ee8e481ba7c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1axKXnIspn4f1nFv1CKEstj7rGw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Analiz/postgresql-42.2.12.jar!/" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6305638" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.AnalizOdev.Main" />
+      <module name="AnalizOdev" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cee22c8c-042d-4a80-a73d-ee8e481ba7c7" name="Default Changelist" comment="" />
+      <created>1587671846920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587671846920</updated>
+      <workItem from="1587671850110" duration="1466000" />
+      <workItem from="1587841411948" duration="8115000" />
+      <workItem from="1587944590261" duration="139000" />
+      <workItem from="1587985553829" duration="175000" />
+      <workItem from="1587985744015" duration="49000" />
+      <workItem from="1588277411112" duration="164000" />
+      <workItem from="1588277612642" duration="1842000" />
+      <workItem from="1588701647355" duration="113000" />
+      <workItem from="1588701785624" duration="4875000" />
+      <workItem from="1588729721420" duration="600000" />
+      <workItem from="1588774966070" duration="40000" />
+      <workItem from="1588777147144" duration="108000" />
+      <workItem from="1588795162311" duration="45000" />
+      <workItem from="1588795752477" duration="16000" />
+      <workItem from="1588881088719" duration="2152000" />
+      <workItem from="1588894022793" duration="1215000" />
+      <workItem from="1588944479995" duration="3253000" />
+      <workItem from="1588948565996" duration="140000" />
+      <workItem from="1588960624852" duration="1325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="159" key="FileChooserDialogImpl" timestamp="1588960958806">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="501" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1588960958806" />
+    <state width="1493" height="313" key="GridCell.Tab.0.bottom" timestamp="1588962520263">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588962520263" />
+    <state width="1493" height="313" key="GridCell.Tab.0.center" timestamp="1588962520262">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588962520262" />
+    <state width="1493" height="313" key="GridCell.Tab.0.left" timestamp="1588962520262">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588962520262" />
+    <state width="1493" height="313" key="GridCell.Tab.0.right" timestamp="1588962520263">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588962520263" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1588960963559">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588960963559" />
+    <state x="35" y="42" key="new project wizard" timestamp="1588774982632">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="35" y="42" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1588774982632" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1588703761845">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1588703761845" />
+  </component>
+</project>
